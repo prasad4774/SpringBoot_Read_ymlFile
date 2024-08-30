@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: SB_PropertyYml
+    
+server:
+  port: 8090    
+
+app:
+ message:
+     welcomeMsg: welcome to java
+     greetMsg: Congatulation
